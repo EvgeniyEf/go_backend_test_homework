@@ -9,5 +9,5 @@ func Add(a, b int) int {
 }
 
 func main() {
-	fmt.Println("Я домашка") // it's home work
+	fmt.Println("Я домашка") // it's home_work
 }
